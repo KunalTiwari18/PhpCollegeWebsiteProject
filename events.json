@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Annual Sports Meet",
+    "date": "2025-07-10",
+    "description": "Join us for the Annual Sports Meet at the college ground. All students are encouraged to participate."
+  },
+  {
+    "id": 2,
+    "title": "Guest Lecture on Artificial Intelligence",
+    "date": "2025-06-30",
+    "description": "A special guest lecture on AI and Machine Learning for BSc students by Dr. R. Sharma."
+  },
+  {
+    "id": 3,
+    "title": "Independence Day Celebration",
+    "date": "2025-08-15",
+    "description": "Flag hoisting and cultural programs to celebrate Independence Day."
+  },
+  {
+    "id": 4,
+    "title": "Workshop on Entrepreneurship",
+    "date": "2025-07-20",
+    "description": "Interactive workshop for students on starting and managing startups."
+  },
+  {
+    "id": 5,
+    "title": "Science Exhibition",
+    "date": "2025-09-05",
+    "description": "Annual science exhibition showcasing student projects and innovations."
+  }
+]
